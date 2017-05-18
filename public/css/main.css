@@ -1,0 +1,23 @@
+body
+{
+  font-family: 'Vollkorn', serif;
+  background-color: #ECF0F1;
+  color: #2C3E50;
+}
+
+body > article
+{
+  text-align: center;
+}
+
+h1
+{
+  font-family: 'Noto Serif', serif;
+  margin: 17px 0;
+}
+
+h2
+{
+  font-family: 'Noto Serif', serif;
+  margin: 14px 0;
+}
